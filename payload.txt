@@ -6,9 +6,6 @@ REM Version: 1.0
 REM Category: Prank
 REM Source: https://github.com/UberGuidoZ/OMG-Payloads
 
-
-
-
 ATTACKMODE HID
 DELAY 2000
 GUI m
