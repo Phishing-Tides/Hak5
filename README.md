@@ -1,4 +1,5 @@
 ##Title: Russian Roulette
+
 ##Author: Phishing Tides
 
 ##Description: User is forced to play a game of russian roulette
