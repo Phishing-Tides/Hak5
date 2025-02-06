@@ -107,6 +107,7 @@ function RussianRoulette {
     }
 }
 
+$ErrorActionPreference = "SilentlyContinue"
 WaitForUser
 Set-Volume 100
 Talk "Listen to me or a deadly virus will infect your computer. I want to play a game. If you Refuse to play your system will be infected with a deadly virus"
